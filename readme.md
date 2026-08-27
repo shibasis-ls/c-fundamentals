@@ -4,7 +4,7 @@ A collection of small C programs written while learning systems-level C programm
 
 ## Programs
 
-### `[showip.c](showip)`
+### [`showip`](./showip)
 Resolves a hostname to its IPv4/IPv6 address(es) using `getaddrinfo()`.
 
 **Usage:**
