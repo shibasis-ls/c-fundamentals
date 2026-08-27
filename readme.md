@@ -11,7 +11,7 @@ Resolves a hostname to its IPv4/IPv6 address(es) using `getaddrinfo()`.
 ```bash
 ./showip example.com
 ```
-![alt text](image-2.png)\
+![alt text](image-2.png)
 
 ---
 
