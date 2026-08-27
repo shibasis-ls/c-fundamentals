@@ -12,7 +12,6 @@ Resolves a hostname to its IPv4/IPv6 address(es) using `getaddrinfo()`.
 ./showip example.com
 ```
 ![alt text](image-2.png)\
-**Concepts:** `struct addrinfo`, `getaddrinfo()`, `sockaddr_in`/`sockaddr_in6`, `inet_ntop()`, address family handling (`AF_INET` / `AF_INET6`)
 
 ---
 
