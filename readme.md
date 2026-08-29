@@ -1,6 +1,6 @@
 # C Fundamentals
 
-A collection of small C programs written while learning systems-level C programming — networking, memory, pointers, and other fundamentals. Each program is self-contained and focused on a specific concept.
+A collection of small C programs written while learning systems-level C programming - networking, memory, pointers, and other fundamentals. Each program is self-contained and focused on a specific concept.
 
 ## Programs
 
