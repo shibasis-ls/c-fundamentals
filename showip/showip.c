@@ -41,7 +41,7 @@ int main(int argc, char *argv[]){
         }else{
             ipv6= (struct sockaddr_in6 *)p-> ai_addr;
             addr = &(ipv6->sin6_addr);
-            ipver = "ipv6";
+            ipver = "IPv6";
         }
 
         inet_ntop(p->ai_family, addr, ipstr, sizeof ipstr);
